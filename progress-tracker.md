@@ -1,7 +1,7 @@
 # 📈 Progress Tracker
 
 ## Phase 1 – Data Analyst
-- [ ] Week 01 – Pandas & NumPy
+- [x] Week 01 – Pandas & NumPy
 - [ ] Week 02 – Data Visualization
 - [ ] Week 03 – SQL
 - [ ] Week 04 – Statistics
